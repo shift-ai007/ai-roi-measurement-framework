@@ -1,0 +1,43 @@
+# AI Project Baseline Capture Template
+# Fill this in BEFORE starting any AI development
+
+project_name: ""
+date_captured: ""
+captured_by: ""
+
+# Current Process Metrics
+process_metrics:
+  avg_time_per_task_hours: 0
+  tasks_per_week: 0
+  end_to_end_cycle_days: 0
+  
+# Quality Metrics  
+quality_metrics:
+  error_rate_percent: 0
+  rework_frequency_per_month: 0
+  customer_complaints_per_month: 0
+
+# Cost Metrics
+cost_metrics:
+  cost_per_transaction_usd: 0
+  monthly_labor_cost_usd: 0
+  monthly_tool_cost_usd: 0
+
+# Customer Impact
+customer_metrics:
+  avg_response_time_hours: 0
+  nps_score: 0
+  satisfaction_rating: 0
+
+# Capacity
+capacity_metrics:
+  team_size: 0
+  utilization_percent: 0
+  backlog_size: 0
+
+# Kill Criteria (set these upfront!)
+kill_criteria:
+  pilot_duration_weeks: 8
+  minimum_improvement_percent: 20
+  max_acceptable_error_rate: 0
+  budget_ceiling_usd: 0
